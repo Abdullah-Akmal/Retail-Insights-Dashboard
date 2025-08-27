@@ -57,6 +57,3 @@ This project addresses that challenge by developing an interactive Power BI dash
 
 ---
 
-
-## Preview
-*(Add dashboard screenshots here for better visualization)*  
